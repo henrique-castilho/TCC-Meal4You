@@ -1,0 +1,24 @@
+# Arquivos temporários do Word
+~$*
+
+# Arquivos temporários de backup do Office
+*.tmp
+*.bak
+*.wbk
+
+# Arquivos de sistema do Windows
+Thumbs.db
+Desktop.ini
+
+# Pastas ocultas do sistema
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Pastas comuns de backup
+backup/
+tmp/
+temp/
